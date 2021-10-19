@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_all_details.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_transactionhistory.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_transfer.xml" value="0.33" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_transfer_money.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/activity_transfermoney.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/basic_spinner.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/cardview.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/popup.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/popup1.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/JOY/AndroidStudioProjects/BasicBankingSystem/app/src/main/res/layout/transactionhistory.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
